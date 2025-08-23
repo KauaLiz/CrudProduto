@@ -130,7 +130,7 @@ Caso você altere essa configuração no `application.properties`, lembre-se de 
 ## Futuras Melhorias
 
 <ul>
-<li>Criar interface gráfica para facilitar o uso da API.</li>
+<li>Criar uma interface gráfica para facilitar o uso da API.</li>
 <li>Tratar exceções e realizar aprimoramentos no código.</li>
 <li>Implementar mais tecnologias e funcionalidades no mesmo.</li>
 </ul>
