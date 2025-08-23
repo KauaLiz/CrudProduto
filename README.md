@@ -1,7 +1,7 @@
 # 🛒 CRUD de Produtos - Spring Boot + PostgreSQL
 
 Este projeto é uma API REST para gerenciamento de produtos, desenvolvida em **Java 24 + Spring Boot**.  
-Ele implementa operações básicas de **CRUD (Create, Read, Update, Delete)** utilizando **Spring Data JPA** e banco **PostgreSQL**.
+Ele implementa operações básicas de **CRUD (Create, Read, Update, Delete)** utilizando **Spring Data JPA** e o banco de dados **PostgreSQL**.
 
 ---
 
